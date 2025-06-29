@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/xdark_warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xdark_warrior" height="30" width="40" /></a>
-<a href="https://facebook.com/xdarkwarrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="second.markzuckerberg.dwarrior" height="30" width="40" /></a>
+<a href="https://facebook.com/xdarkwarrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Get Connected With Owner" height="30" width="40" /></a>
 <a href="https://instagram.com/xdark_warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xdark_warrior" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@xdark_warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xdark_warrior" height="30" width="40" /></a>
 <a href="/https://xdarkwarrior.blogspot.com/p/privacy-policy.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://xdarkwarrior.blogspot.com/p/privacy-policy.html" height="30" width="40" /></a>
