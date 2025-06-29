@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-- 📝 I regularly write articles on [https://xdarkwarrior.blogspot.com](https://xdarkwarrior.blogspot.com)
+- 📝 I regularly write articles on [XDark Warrior - Team XD](https://xdark-warrior.github.io)
 
 - 💬 Ask me about **Cyber Security, Ethical Hacking, Python Programming**
 
